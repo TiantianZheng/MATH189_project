@@ -1,0 +1,12 @@
+# Raw NHTSA data files are downloaded/recreated by the notebook.
+FARS/
+CRSS/
+raw_zips/
+
+# Jupyter and system files
+.ipynb_checkpoints/
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
